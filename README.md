@@ -1,4 +1,2 @@
-# The Entity
-My personal Discord bot
-
-Currently, its only purpose is to scrape https://draftsim.com/mtg-arena-codes/ for the most recent Arena codes and remind me about them in Discord.
+# MTGA Code Fetcher Bot
+A bot to fetch MTG Arena codes and post them in Discord. The most recent Arena codes are scraped from https://draftsim.com/mtg-arena-codes/ and then posted in Discord.
